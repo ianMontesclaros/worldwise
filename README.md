@@ -8,15 +8,13 @@ https://worldwise-ianmontesclaros.netlify.app/
 
 # Features
 
-1. Dynamic Page Navigation: The application features a navigation system that dynamically updates the URL bar as users navigate through different pages. This enhances the user experience by providing a smooth, single-page application feel.
+1. Dynamic Page Navigation: The application features a navigation system that dynamically updates the URL bar as users navigate through different pages.
    
-3. City and Country Lists: Users are presented with a list of visited cities and their respective countries. This information is dynamically fetched and displayed based on user input, ensuring an up-to-date record of their travels.
+2. City and Country Lists: Users are presented with a list of visited cities and their respective countries. This information is fetched and displayed based on user input.
   
-4. Interactive Map: Through the integration of geolocation APIs, users can pinpoint their current location on an interactive map. Additionally, the map displays markers for all the cities users have visited, offering a visual representation of their adventures.
+3. Interactive Map: Through the integration of geolocation API, users can pinpoint their current location on the interactive map. The map displays markers for all the cities users have visited.
   
-6. City Details: By clicking on a city marker, users can access detailed information about the city they visited. This includes its name, the date of the visit, personal notes added by the user, and even a convenient Wikipedia link for further exploration.
-
-8. User-Friendly UI: The application boasts a user-friendly interface designed to facilitate seamless interaction with its various features and functionalities.
+4. City Details: By clicking on a city marker, users can access detailed information about the city they visited. This includes its name, the date of the visit, personal notes added by the user, and even a  Wikipedia link for further details.
 
 # Built with
 
