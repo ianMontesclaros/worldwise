@@ -31,5 +31,5 @@ https://worldwise-ianmontesclaros.netlify.app/
 
 Before accessing the netlify link:
 1. Clone the repository.
-2. Install the dependencies with ``` npm install ```
-3. Run the JSON server with ``` npm run server ```
+2. Install the dependencies with ``` npm install ```.
+3. Run the JSON server with ``` npm run server ```.
