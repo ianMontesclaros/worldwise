@@ -4,13 +4,19 @@
 
 WorldWise is a ReactJS single-page application (SPA) that allows users to pinpoint and save every place they've been to on an interactive map.
 
+https://worldwise-ianmontesclaros.netlify.app/
+
 # Features
 
-1. Dynamic Page Navigation: The application employs page navigation that dynamically updates the URL bar as users move between different sections. This creates a true single-page application experience.
-2. City and Country Lists: The application provides a list of all visited cities and the corresponding countries, dynamically retrieved and displayed based on user input.
-3. Interactive Maps: A map section provides users with the ability to locate their current position using geolocation APIs. Users can also view the cities they have visited as markers on the map.
-4. City Details: Clicking on a city marker reveals detailed information about the city, including its name, the date of the visit, personal notes, and even a Wikipedia link for further exploration.
-5. User-Friendly UI: The application is designed with a user-friendly interface, making it easy for users to interact with the various features and functionalities.
+1. Dynamic Page Navigation: The application features a navigation system that dynamically updates the URL bar as users navigate through different pages. This enhances the user experience by providing a smooth, single-page application feel.
+   
+3. City and Country Lists: Users are presented with a list of visited cities and their respective countries. This information is dynamically fetched and displayed based on user input, ensuring an up-to-date record of their travels.
+  
+4. Interactive Map: Through the integration of geolocation APIs, users can pinpoint their current location on an interactive map. Additionally, the map displays markers for all the cities users have visited, offering a visual representation of their adventures.
+  
+6. City Details: By clicking on a city marker, users can access detailed information about the city they visited. This includes its name, the date of the visit, personal notes added by the user, and even a convenient Wikipedia link for further exploration.
+
+8. User-Friendly UI: The application boasts a user-friendly interface designed to facilitate seamless interaction with its various features and functionalities.
 
 # Built with
 
@@ -20,3 +26,5 @@ WorldWise is a ReactJS single-page application (SPA) that allows users to pinpoi
 * useMemo
 * useCallback
 * Performance Optimization
+
+# Getting Started
