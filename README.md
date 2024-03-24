@@ -29,4 +29,4 @@ https://worldwise-ianmontesclaros.netlify.app/
 
 # Quick Setup
 
-Before accessing the netlify link, run the application's JSON server with ``` npm run server ``` in order to fetch and store your visited places.
+Before accessing the netlify link, run the application's JSON server with ``` npm run server ``` to fetch and store your visited places.
