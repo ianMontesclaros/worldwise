@@ -27,4 +27,8 @@ https://worldwise-ianmontesclaros.netlify.app/
 * useCallback
 * Performance Optimization
 
-# Getting Started
+# Quick Setup
+
+Before accessing the netlify link, run the application's JSON server.
+
+``` npm run server ```
