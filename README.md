@@ -29,6 +29,4 @@ https://worldwise-ianmontesclaros.netlify.app/
 
 # Quick Setup
 
-Before accessing the netlify link, run the application's JSON server.
-
-``` npm run server ```
+Before accessing the netlify link, run the application's JSON server with ``` npm run server ``` in order to fetch and store data.
